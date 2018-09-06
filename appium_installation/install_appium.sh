@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 ###Installing Appium on Mac OS
-###uthor:: Kishor Jyoti Sarma
+###Author:: Kishor Jyoti Sarma
 
 function install_utils(){
   VAL=$(which $1)
