@@ -80,6 +80,3 @@ check_xcode_command_line_tools
 set_java_home
 set_android_home
 check_appium_installation
-
-
-
