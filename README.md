@@ -1,4 +1,4 @@
-# appium_installation
+# Appium Installation
 
 Before executing the script make sure Xcode is installed from Apple app store. Also make sure Android Studio and Java is installed .
 All other dependencies including JAVA_HOME and ANDROID_HOME will be set by the script itself. 
